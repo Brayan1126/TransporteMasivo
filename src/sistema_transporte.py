@@ -71,7 +71,7 @@ if __name__ == "__main__":
     
     # Definir puntos de prueba
     punto_a = 'Portal Norte'
-    punto_b = 'Portal Sur'
+    punto_b = 'Estación Central'
     
     ruta, tiempo = sistema.busqueda_a_estrella(punto_a, punto_b)
     
