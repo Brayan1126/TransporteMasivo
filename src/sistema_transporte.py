@@ -70,8 +70,8 @@ if __name__ == "__main__":
     sistema = SistemaTransporteInteligente()
     
     # Definir puntos de prueba
-    punto_a = 'Portal Norte'
-    punto_b = 'Estación Central'
+    punto_a = 'Suba'
+    punto_b = 'Calle brayan'
     
     ruta, tiempo = sistema.busqueda_a_estrella(punto_a, punto_b)
     
